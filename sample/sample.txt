@@ -1,0 +1,7 @@
+"sample"
+{
+	"base"		"nutscript"
+	"title"		"Sample"
+	"author"	"Black Tea Za rebel1324"
+	"menusystem" "1"
+}
